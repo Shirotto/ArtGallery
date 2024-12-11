@@ -1,4 +1,4 @@
-package com.BAMM.app;
+package com.app;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
