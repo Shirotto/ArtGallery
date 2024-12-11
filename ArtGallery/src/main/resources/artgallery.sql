@@ -4,7 +4,7 @@
 CREATE DATABASE artgallery;
 
 -- Use the database
-USE artygallery;
+USE artgallery;
 
 -- Create a user with a password and grant privileges
 CREATE USER 'admin'@'localhost' IDENTIFIED BY 'password';
