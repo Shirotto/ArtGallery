@@ -1,0 +1,17 @@
+Galleria d’Arte Digitale
+L'azienda Duff Tech desidera sviluppare un'applicazione desktop che
+consenta la gestione di una galleria d'arte digitale. L'obiettivo principale è
+di creare una piattaforma dove i curatori possano caricare immagini delle
+opere d’arte, organizzandole con dettagli come titolo, autore, anno di
+creazione, tecnica utilizzata e una breve descrizione dell'opera.
+L'applicazione deve consentire agli utenti di esplorare la collezione con un
+sistema di filtri avanzati che permette di selezionare le opere in base alla
+categoria o alla tecnica artistica.
+Un aspetto distintivo del progetto è la modalità “asta” virtuale. Questa
+funzione offre una simulazione di una vendita all’asta, permettendo agli
+utenti di "comprare" un’opera. L’applicazione deve permettere anche la
+visualizzazione di tutte le opere in un ordine prestabilito o personalizzabile.
+L'applicazione includerà anche una sezione di statistiche per monitorare le
+opere più visualizzate o preferite dagli utenti, offrendo così informazioni
+utili sia agli artisti che ai curatori. Duff Tech ha richiesto un sistema che usi
+un’interfaccia grafica e un DBMS per la gestione dei dati.
