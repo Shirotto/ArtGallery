@@ -8,5 +8,5 @@ USE artygallery;
 
 -- Create a user with a password and grant privileges
 CREATE USER 'admin'@'localhost' IDENTIFIED BY 'password';
-GRANT ALL PRIVILEGES ON artgallery.* TO 'artgallery'@'localhost';
+GRANT ALL PRIVILEGES ON artgallery.* TO 'admin'@'localhost';
 FLUSH PRIVILEGES;
